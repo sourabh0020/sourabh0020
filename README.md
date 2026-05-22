@@ -32,6 +32,7 @@
 
 | Project | Tools | Description |
 |---|---|---|
+| [🛵 Swiggy Sales Analysis](https://github.com/sourabh0020/swiggy-sales-analysis-) | Python| Dataset 197,430 orders · Jan–Aug 2025 · 5-table star schema |
 | [🍎 Apple Retail Sales](https://github.com/sourabh0020/Apple-Retail-Sales) | SQL | Advanced SQL on 1M+ rows — warranty, revenue & product analysis |
 | [🏥 Hospital Performance Dashboard](https://github.com/sourabh0020/Hospital-Performance-Dashboard) | Power BI | LOS, discharges & hospital KPIs across regions |
 | [🎬 Netflix EDA](https://github.com/sourabh0020/netflix-eda) | Python | Content library trends — genres, ratings, release patterns |
@@ -43,14 +44,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh0020&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh0020&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabh0020&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh0020&layout=compact&theme=default&hide_border=true&langs_count=6" height="160"/>
 </p>
 
----
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourabhyadav96/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=sourabh0020&theme=default&hide_border=true" />
 </p>
