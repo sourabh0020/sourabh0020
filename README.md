@@ -44,11 +44,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh0020&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats-eta-navy-35.vercel.app/api?username=sourabh0020&show_icons=true&hide_border=true&count_private=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh0020&layout=compact&theme=default&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats-eta-navy-35.vercel.app/api/top-langs/?username=sourabh0020&layout=compact&hide_border=true&langs_count=6" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sourabh0020&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=sourabh0020&hide_border=true" />
 </p>
