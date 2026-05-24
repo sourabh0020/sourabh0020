@@ -32,8 +32,8 @@
 
 | Project | Tools | Description |
 |---|---|---|
-| [🛵 Swiggy Sales Analysis](https://github.com/sourabh0020/swiggy-sales-analysis-) | Python | SQL | Dataset 197,430 orders · Jan–Aug 2025 · 5-table star schema |
-| [🍎 Apple Retail Sales](https://github.com/sourabh0020/Apple-Retail-Sales) | SQL | Advanced SQL on 1M+ rows — warranty, revenue & product analysis |
+| [🛵 Swiggy Sales Analysis](https://github.com/sourabh0020/swiggy-sales-analysis-) | Python , SQL | Dataset 197,430 orders · Jan–Aug 2025 · 5-table star schema |
+| [🍎 Apple Retail Sales](https://github.com/sourabh0020/Apple-Retail-Sales) | SQL,Power BI | Advanced SQL on 1M+ rows — warranty, revenue & product analysis |
 | [🏥 Hospital Performance Dashboard](https://github.com/sourabh0020/Hospital-Performance-Dashboard) | Power BI | LOS, discharges & hospital KPIs across regions |
 | [🎬 Netflix EDA](https://github.com/sourabh0020/netflix-eda) | Python | Content library trends — genres, ratings, release patterns |
 | [🛒 Amazon Product Analysis](https://github.com/sourabh0020/Amazon-Product-Sales-Analysis) | Python | Price, rating & review insights for e-commerce optimization |
